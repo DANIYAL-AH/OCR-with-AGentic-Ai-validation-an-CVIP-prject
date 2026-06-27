@@ -1,0 +1,12 @@
+chromadb
+gradio
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+opencv-python
+pillow
+pymupdf
+pytesseract
+sentence-transformers
+streamlit
