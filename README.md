@@ -1,0 +1,1 @@
+# OCR-with-AGentic-Ai-validation-an-CVIP-prject
